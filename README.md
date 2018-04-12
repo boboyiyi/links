@@ -9,6 +9,7 @@
 
 </details>
 
+<details>
 <summary> visual speech synthesis </summary>
 
 - **Synthesizing Obama: Learning Lip Sync from Audio**(2017). [[pdf]](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
@@ -17,7 +18,7 @@
 
 </details>
 
-
+<details>
 <summary> text analysis </summary>
 
 - **Word2Bits-Quantized Word Vectors**(2018). [[pdf]](https://arxiv.org/pdf/1803.05651.pdf)
