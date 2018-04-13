@@ -3,9 +3,9 @@
 <details>
 <summary> speech synthesis </summary>
 
-- **Tacotron: A fully end-to-end text-to-speech synthesis model**(2017). [[pdf]](https://arxiv.org/pdf/1703.10135.pdf)
-
 - **NATURAL TTS SYNTHESIS BY CONDITIONINGWAVENET ON MEL SPECTROGRAM PREDICTIONS**(2018). [[pdf]](https://arxiv.org/pdf/1712.05884.pdf)
+
+- **Tacotron: A fully end-to-end text-to-speech synthesis model**(2017). [[pdf]](https://arxiv.org/pdf/1703.10135.pdf)
 
 </details>
 
@@ -22,6 +22,8 @@
 <summary> text analysis </summary>
 
 - **Word2Bits-Quantized Word Vectors**(2018). [[pdf]](https://arxiv.org/pdf/1803.05651.pdf)
+
+- **Word Embeddings with Limited Memory**(2016). [[pdf]](http://www.aclweb.org/anthology/P16-2063)
 
 </details>
 
