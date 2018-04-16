@@ -12,7 +12,11 @@
 <details>
 <summary> visual speech synthesis </summary>
 
+- **ExpNet: Landmark-Free, Deep, 3D Facial Expressions**(2018). [[pdf]](https://arxiv.org/pdf/1802.00542.pdf)
+
 - **Synthesizing Obama: Learning Lip Sync from Audio**(2017). [[pdf]](https://grail.cs.washington.edu/projects/AudioToObama/siggraph17_obama.pdf)
+
+- **On Face Segmentation, Face Swapping, and Face Perception**(2017). [[pdf]](https://arxiv.org/pdf/1704.06729.pdf)
 
 - **Face2Face: Real-time Face Capture and Reenactment of RGB Videos**(2016). [[pdf]](http://niessnerlab.org/papers/2016/1facetoface/thies2016face.pdf)
 
