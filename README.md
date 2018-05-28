@@ -31,3 +31,17 @@
 
 </details>
 
+<details>
+
+<summary> learn_opencv </summary>
+
+- **Learn OpenCV**. [[link]](https://www.learnopencv.com/)
+
+</details>
+
+<summary> websites </summary>
+
+- **Free Flat Icons**. [[link]](https://icons8.com/)
+
+</details>
+
