@@ -1,4 +1,4 @@
-# Useful papers related to my work
+# Useful links related to my work
 
 <details>
 <summary> speech synthesis </summary>
@@ -41,9 +41,21 @@
 
 <details>
 
+<summary> learn_opengl </summary>
+
+- **Learn OpenGL EN**. [[link]](https://learnopengl.com/)
+
+- **Learn OpenGL CN**. [[link]](https://learnopengl-cn.github.io/)
+
+</details>
+
+<details>
+
 <summary> websites </summary>
 
 - **Free Flat Icons**. [[link]](https://icons8.com/)
+
+- **二次元壁纸**. [[link]](https://anime.goodfon.com/)
 
 </details>
 
