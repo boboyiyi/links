@@ -32,10 +32,21 @@
 </details>
 
 <details>
+<summary> Face landmark detection </summary>
+
+- **Stasm**(2018). [[link]](http://www.milbo.users.sonic.net/stasm/)
+
+![Canny](https://github.com/boboyiyi/links/blob/master/data/before-stasm-small.jpg)
+
+</details>
+
+<details>
 
 <summary> learn_opencv </summary>
 
 - **Learn OpenCV**. [[link]](https://www.learnopencv.com/)
+
+- **aishack**. [[link]](ttp://aishack.in/)
 
 </details>
 
@@ -47,6 +58,8 @@
 
 - **Learn OpenGL CN**. [[link]](https://learnopengl-cn.github.io/)
 
+- **可汗学院**. [[link]](https://www.khanacademy.org/)
+
 </details>
 
 <details>
@@ -56,6 +69,8 @@
 - **Free Flat Icons**. [[link]](https://icons8.com/)
 
 - **二次元壁纸**. [[link]](https://anime.goodfon.com/)
+
+- **Skyboxes**. [[link]](http://www.custommapmakers.org/skyboxes.php)
 
 </details>
 
