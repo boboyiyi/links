@@ -36,7 +36,9 @@
 
 - **Stasm**(2018). [[link]](http://www.milbo.users.sonic.net/stasm/)
 
-![Canny](https://github.com/boboyiyi/links/blob/master/data/before-stasm-small.jpg)
+![Before_stasm](https://github.com/boboyiyi/links/blob/master/data/before-stasm-small.jpg)
+
+![After_stasm](https://github.com/boboyiyi/links/blob/master/data/after-stasm-small.jpg)
 
 </details>
 
