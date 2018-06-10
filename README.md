@@ -32,9 +32,9 @@
 </details>
 
 <details>
-<summary> Face landmark detection </summary>
+<summary> face landmark detection </summary>
 
-- **Stasm**. [[link]](http://www.milbo.users.sonic.net/stasm/)
+- **Stasm**(ASM算法). [[link]](http://www.milbo.users.sonic.net/stasm/)
 
 <figure>
     <img src="https://github.com/boboyiyi/links/blob/master/data/before-stasm-small.jpg">
@@ -45,17 +45,17 @@
 
 <details>
 
-<summary> learn_opencv </summary>
+<summary> learn opencv </summary>
 
 - **Learn OpenCV**. [[link]](https://www.learnopencv.com/)
 
-- **aishack**. [[link]](ttp://aishack.in/)
+- **aishack**. [[link]](http://aishack.in/)
 
 </details>
 
 <details>
 
-<summary> learn_opengl </summary>
+<summary> learn opengl </summary>
 
 - **Learn OpenGL EN**. [[link]](https://learnopengl.com/)
 
