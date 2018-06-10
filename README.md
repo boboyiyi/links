@@ -34,11 +34,12 @@
 <details>
 <summary> Face landmark detection </summary>
 
-- **Stasm**(2018). [[link]](http://www.milbo.users.sonic.net/stasm/)
+- **Stasm**. [[link]](http://www.milbo.users.sonic.net/stasm/)
 
-![Before_stasm](https://github.com/boboyiyi/links/blob/master/data/before-stasm-small.jpg)
-
-![After_stasm](https://github.com/boboyiyi/links/blob/master/data/after-stasm-small.jpg)
+<figure>
+    <img src="https://github.com/boboyiyi/links/blob/master/data/before-stasm-small.jpg">
+    <img src="https://github.com/boboyiyi/links/blob/master/data/after-stasm-small.jpg">
+</figure>
 
 </details>
 
