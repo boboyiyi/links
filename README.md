@@ -44,6 +44,17 @@
 </details>
 
 <details>
+<summary> faces database </summary>
+
+- **Radboud Faces Database**(人脸表情数据库). [[link]](http://www.socsci.ru.nl:8180/RaFD2/RaFD?p=main)
+
+<figure>
+    <img src="https://github.com/boboyiyi/links/blob/master/data/olli_emotions_bigger.jpg">
+</figure>
+
+</details>
+
+<details>
 
 <summary> learn opencv </summary>
 
