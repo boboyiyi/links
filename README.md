@@ -78,6 +78,14 @@
 
 <details>
 
+<summary> 3D </summary>
+
+- **CANDIDE - a parameterized face**. [[link]](http://www.icg.isy.liu.se/candide/)
+
+</details>
+
+<details>
+
 <summary> websites </summary>
 
 - **Free Flat Icons**. [[link]](https://icons8.com/)
@@ -86,5 +94,9 @@
 
 - **Skyboxes**. [[link]](http://www.custommapmakers.org/skyboxes.php)
 
+- **Windows pythonlibs**. [[link]](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
 </details>
+
+
 
